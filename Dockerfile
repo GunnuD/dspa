@@ -1,7 +1,7 @@
 
 FROM oraclelinux:7-slim
 
-MAINTAINER Steve Swinsburg <steve.swinsburg@gmail.com>
+MAINTAINER Digambar Singh <d.mathuria@gmail.com>
 
 ENV ORACLE_BASE=/opt/oracle \
     ORACLE_HOME=/opt/oracle/product/12.2.0.1/dbhome_1 \
